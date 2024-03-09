@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mikrobiom
+title: Microbiome
 permalink: /microbiome
 ---
 
-# Text om mikrobiomen 
+# Information about microbiome
