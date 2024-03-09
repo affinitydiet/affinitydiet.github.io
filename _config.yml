@@ -40,13 +40,13 @@ navigation_links:
     url: /diet
 
 # Footer icons
-footer_links:
-  - title: Youtube
-    url: https://www.youtube.com/@Tajlerina
-    icon: fa fa-youtube-square
+#footer_links:
+#  - title: Youtube
+#    url: https://www.youtube.com/@Tajlerina
+#    icon: fa fa-youtube-square
 
 # Enter your copyright text if you wish to override the default one.
-copyright: "Made by Affinity Group"
+copyright: ""
 
 # Time zone
 timezone: null
