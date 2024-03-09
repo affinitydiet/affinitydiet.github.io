@@ -39,9 +39,6 @@ navigation_links:
   - title: Recept
     url: /recipes
 
-  - title: Länkar
-    url: /links
-
   - title: Sök
     url: /search
 
