@@ -30,14 +30,14 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Diet
+  - title: Recipes
     url: /
 
   - title: Microbiome
     url: /microbiome
 
-  - title: Recipes
-    url: /recipes
+  - title: Diet
+    url: /diet
 
 # Footer icons
 footer_links:
