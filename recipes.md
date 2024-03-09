@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Recept
+title: Recipes
 permalink: /recipes
 ---
 
-# Recept
+# Keto Recipes
+
