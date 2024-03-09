@@ -6,10 +6,10 @@
 lang: "sv"
 
 # Name of your site (displayed in the header)
-title: Affinty Group
+title: Affinity Group
 
 # Short bio or description (displayed in the header)
-description: Dieter, livstil
+description: Dieter, keto, livstil
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -34,12 +34,15 @@ navigation_links:
     url: /
 
   - title: Mikrobiom
-    url: /about
+    url: /microbiome
 
   - title: Recept
-    url: /search
+    url: /recipes
 
   - title: Länkar
+    url: /links
+
+  - title: Sök
     url: /search
 
 # Footer icons
