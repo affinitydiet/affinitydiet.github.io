@@ -3,13 +3,13 @@
 #
 
 # Site locale
-lang: "sv"
+lang: "en"
 
 # Name of your site (displayed in the header)
 title: Affinity Group
 
 # Short bio or description (displayed in the header)
-description: Dieter, keto, livstil
+description: Diet, health and lifestyle
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -33,14 +33,11 @@ navigation_links:
   - title: Diet
     url: /
 
-  - title: Mikrobiom
+  - title: Microbiome
     url: /microbiome
 
-  - title: Recept
+  - title: Recipes
     url: /recipes
-
-  - title: Sök
-    url: /search
 
 # Footer icons
 footer_links:
